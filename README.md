@@ -7,17 +7,17 @@
 </div>
 
 <div align="center" style="display: inline_block"> <br>
-  <img align="center" alt="Naju-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Naju-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Naju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Naju-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Naju-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">    
-  <img align="center" alt="Naju-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-plain.svg">
-  <img align="center" alt="Naju-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Naju-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Naju-JS" height="30" width="120" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Naju-.NET" height="30" width="90" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="Naju-HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Naju-Git" height="30" width="70" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">    
+  <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 
 ##
 </div>
+
 
           
             
