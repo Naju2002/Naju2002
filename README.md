@@ -1,4 +1,6 @@
-## Hi Naju there 👋
+<div> 
+
+</div>
 
 <div align="center" style="display: inline_block"> <br>
 
@@ -16,6 +18,11 @@
   <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 
 ##
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
 
