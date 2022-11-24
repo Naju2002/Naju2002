@@ -1,5 +1,5 @@
 <div> 
-
+  Olá sou a Naju
 </div>
 
 <div align="center" style="display: inline_block"> <br>
@@ -20,14 +20,18 @@
 ##
 </div>
 
-<div>
-  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="left" style="display: inline_block"> <br>
+
+  <a href="https://www.linkedin.com/in/ana-julia-barbosa-75b6031b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.najubarbosa58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/NajuDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+
+## 
 
 </div>
 
+<div align="center" style="display: inline_block"> <br> 
+   <img align="center" alt="Naju-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045133439814352926/picasion.com_5e62b3a7cff90cd45101acc87bacd360.gif">
 
-          
-            
-          
-          
-          
+</div>
