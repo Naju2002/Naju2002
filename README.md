@@ -1,6 +1,7 @@
-<div> 
-  Olá sou a Naju
-</div>
+ 
+  ### Olá sou a Naju
+  ##
+
 
 <div align="center" style="display: inline_block"> <br>
 
@@ -10,11 +11,17 @@
 
 <div align="center" style="display: inline_block"> <br>
   <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
+
   <img align="center" alt="Naju-JS" height="30" width="120" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
   <img align="center" alt="Naju-.NET" height="30" width="90" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white">
+
   <img align="center" alt="Naju-HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+
   <img align="center" alt="Naju-Git" height="30" width="70" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">    
+
+  <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+   
   <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 
 ##
