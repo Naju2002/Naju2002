@@ -1,16 +1,9 @@
  
   <div align="center" style="display: inline_block"> <br> 
-   <img align="center" alt="Naju-Capa" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045181404457226330/Capa_de_perfil_para_banner_de_linkedIn_1.gif?width=994&height=298">
+   <img align="center" alt="Naju-Capa" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045195588054036510/Capa_de_perfil_para_banner_de_linkedIn_4.gif?width=994&height=298">
 
 </div>
 
-###  ↣ Info:<h3>
-
-   ◊ _Sou tecnóloga em jogos digitais._
-
-   ◊ _Atualmente faço pós-graduação em inteligencia artificial e machine learning._
- 
- 
  ##
 
 <div align="center" style="display: inline_block"> <br>
