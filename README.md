@@ -1,6 +1,10 @@
  
-  ### Olá sou a Naju
-  ##
+  <div align="center" style="display: inline_block"> <br> 
+   <img align="center" alt="Naju-Capa" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045181404457226330/Capa_de_perfil_para_banner_de_linkedIn_1.gif?width=994&height=298">
+
+
+##
+</div>
 
 
 <div align="center" style="display: inline_block"> <br>
@@ -28,7 +32,7 @@
 </div>
 
 <div align="center" style="display: inline_block"> <br> 
-   <img align="center" alt="Naju-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045133439814352926/picasion.com_5e62b3a7cff90cd45101acc87bacd360.gif">
+   <img align="center" alt="Naju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045133439814352926/picasion.com_5e62b3a7cff90cd45101acc87bacd360.gif">
 
 </div>
 
