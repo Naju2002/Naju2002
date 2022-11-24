@@ -2,18 +2,28 @@
   <div align="center" style="display: inline_block"> <br> 
    <img align="center" alt="Naju-Capa" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045181404457226330/Capa_de_perfil_para_banner_de_linkedIn_1.gif?width=994&height=298">
 
-
-##
 </div>
 
+###  ↣ Info:<h3>
+
+   ◊ _Sou tecnóloga em jogos digitais._
+
+   ◊ _Atualmente faço pós-graduação em inteligencia artificial e machine learning._
+ 
+ 
+ ##
 
 <div align="center" style="display: inline_block"> <br>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naju2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAju2002&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center" style="display: inline_block"> <br>
+
+  ### ↣ Main skills:<h3>
+
+
+<div align="center">
+
   <img align="center" alt="Naju-Csharp" height="30" width="70" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white">
 
   <img align="center" alt="Naju-JS" height="30" width="120" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
