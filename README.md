@@ -12,7 +12,7 @@
 </div>
 
 
-  ### ↣ Main skills :<h3>
+  ### ↣ Main skills:<h3>
 
 
 <div align="center">
