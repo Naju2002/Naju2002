@@ -1,4 +1,3 @@
- 
   <div align="center" style="display: inline_block"> <br> 
    <img align="center" alt="Naju-Capa" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045195588054036510/Capa_de_perfil_para_banner_de_linkedIn_4.gif?width=994&height=298">
 
