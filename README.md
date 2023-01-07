@@ -30,6 +30,8 @@
    
   <img align="center" alt="Naju-VisualStudio" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
 
+   <img align="center" alt="Naju-Godot" height="30" width="90" src="https://img.shields.io/badge/GODOT-000000?style=for-the-badge&logo=godot-engine"> 
+
 ##
 </div>
 
