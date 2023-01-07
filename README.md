@@ -22,8 +22,6 @@
 
   <img align="center" alt="Naju-.NET" height="30" width="90" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white">
 
-  <img align="center" alt="Naju-HTML5" height="30" width="90" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-
   <img align="center" alt="Naju-Git" height="30" width="70" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
 
   <img align="center" alt="Naju-Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
